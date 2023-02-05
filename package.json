@@ -1,0 +1,11 @@
+{
+  "name": "merge-conflicts",
+  "version": "1.0.0",
+  "description": "Example of diverging branches (for CodeLab)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Berdovskiy",
+  "license": "MIT"
+}
